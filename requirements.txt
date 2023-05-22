@@ -12,4 +12,4 @@ MarkupSafe==2.1.2
 pymongo==4.3.3
 python-dotenv==0.21.1
 six==1.16.0
-Werkzeug==2.3.4
+Werkzeug==2.2.3
